@@ -1,0 +1,9 @@
+F:\DotNetProjects\RestClient\RestClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DotNetProjects\RestClient\RestClient\obj\x86\Debug\RestClient.Form1.resources
+F:\DotNetProjects\RestClient\RestClient\obj\x86\Debug\RestClient.Properties.Resources.resources
+F:\DotNetProjects\RestClient\RestClient\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DotNetProjects\RestClient\RestClient\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DotNetProjects\RestClient\RestClient\bin\Debug\RestClient.exe
+F:\DotNetProjects\RestClient\RestClient\bin\Debug\RestClient.pdb
+F:\DotNetProjects\RestClient\RestClient\obj\x86\Debug\RestClient.exe
+F:\DotNetProjects\RestClient\RestClient\obj\x86\Debug\RestClient.pdb
